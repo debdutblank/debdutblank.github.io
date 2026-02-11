@@ -1,8 +1,9 @@
-![Profile](assets/img/dm_photo.jpeg)
 ---
 layout: home
 title: Home
 ---
+![Profile](assets/img/dm_photo.jpeg)
+
 
 Hi — I’m **Debdut Mandal**, an EE researcher focused on **optimization, inverse problems, and probabilistic modeling**, with applications in **multidimensional MRI** and **survival analysis**.
 
