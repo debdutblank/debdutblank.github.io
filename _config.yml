@@ -1,0 +1,9 @@
+title: "Debdut Mandal"
+description: "Optimization • Multidimensional MRI • Survival Modeling"
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+  - cv.md
